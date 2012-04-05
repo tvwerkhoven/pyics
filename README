@@ -1,0 +1,32 @@
+PyICS - A Python module to read or write ICS files
+==================================================
+
+This is PyICS, a Python module to perform file input and output operations
+with the ICS file format.
+
+This library is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Installation
+============
+
+This module can be installed using the standard NumPy distutils. Therefore,
+simply running
+
+   python setup.py install
+
+will install this module to the default installation location. Running
+
+   python setup.py
+
+will start an interactive installation process.
+
+Version history
+===============
+
+20100526, v0.2.0a:
+   * Added write support
+   
+20091111, v0.1.0:
+   * Init
